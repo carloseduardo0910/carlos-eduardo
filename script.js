@@ -6,43 +6,43 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "Você possui pets em sua casa?",
     alternativas: [
         {
-            texto:"Custos elevados",
+            texto:"Sim",
             afirmacao: "afirmação 1"
         },
         {
-        texto:"Conscientização e educação",
+        texto:"Não",
         afirmacao: "afirmação 2"
         }
     ]
 },
 
 {
-    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+    enunciado: "Você mora em casa ou apartamento?",
     alternativas: [
         {
 
-        texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
+        texto: "Casa",
         afirmacao: "afirmação 3"
         },
         {
-        texto:"Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
+        texto:"Apartamento",
         afirmacao: "afirmação 4"
         }
     ]
 },
 
 {
-    enunciado: "Quais são os benefícios do uso de recursos tecnológicos para promover a acessibilidade em diferentes ambientes?",
+    enunciado: "Você prefere maçã ou melancia?",
     alternativas: [
         {
-        texto:"Promover a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
+        texto:"Maçã",
         afirmacao: "afirmação 5"
         },
         {
-        texto:"Defender políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
+        texto:"Melancia",
         afirmacao: "afirmação 6"
         }
     ]
